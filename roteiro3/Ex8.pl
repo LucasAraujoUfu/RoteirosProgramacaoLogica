@@ -1,0 +1,4 @@
+palindromo([]).
+palindromo([X]).
+palindromo()
+
